@@ -3,7 +3,7 @@ This program counts the positive integer and sums up all the negative integers i
 
 PS. I made a mistake during the exam as I overlook the question, I thought that I have to sum up both positive and negative integers on the other side. The Tech HR laugh on my mistake but the approach is good. I just did overlook the question hehe
 
-#What I did?
+# What I did?
 These conditions will solve it. Let's assume I already have the array, a variable that contains the sum of negative integers and the count variable for the positive integers.
 
 *If the element is greater than 0, increment the count variable by 1
@@ -11,7 +11,7 @@ These conditions will solve it. Let's assume I already have the array, a variabl
 
 That solves it.
 
-#Tips And Tricks that made it done
+# Tips And Tricks that made it done
 
 *Create a variable sum (for negative integers)
 *Create a variable count (for positive integers)
