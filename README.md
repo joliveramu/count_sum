@@ -13,9 +13,9 @@ That solves it.
 
 # Tips And Tricks that made it done
 
-*Create a variable sum (for negative integers)
-*Create a variable count (for positive integers)
-*if the element is > 0, increment count by 1
-*if the element is < 0, add the element to the sum variable
+* Create a variable sum (for negative integers)
+* Create a variable count (for positive integers)
+* if the element is > 0, increment count by 1
+* if the element is < 0, add the element to the sum variable
 
 That's it and Happy Coding! 
